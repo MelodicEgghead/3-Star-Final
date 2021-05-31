@@ -404,28 +404,28 @@ ul li a {
 
 
 @media (max-width: 1200px) {
-  p br{
+  p br .btn{
     font-size: 18px;
 line-height: 35px;
   }
 }
 
 @media (max-width: 1000px) {
-  p br{
+  p br .btn{
     font-size: 15px;
   }
 }
 
 
 @media (max-width: 800px) {
-  p br{
+  p br .btn{
     font-size: 13.4px;
   }
 }
 
 
 @media (max-width: 700px) {
-  p br{
+  p br .btn{
     font-size: 11.5px;
   }
 }
@@ -433,28 +433,28 @@ line-height: 35px;
 
 
 @media (max-width: 600px) {
-  p br{
+  p br .btn{
     font-size: 9.7px;
   }
 }
 
 
 @media (max-width: 500px) {
-  p br{
+  p br .btn{
     font-size: 7.7px;
   }
 }
 
 
 @media (max-width: 400px) {
-  p br{
+  p br .btn{
     font-size: 6.5px;
   }
 }
 
 
 @media (max-width: 350px) {
-  p br{
+  p br .btn{
     font-size: 6px;
   }
 }
@@ -462,14 +462,14 @@ line-height: 35px;
 
 
 @media (max-width: 300px) {
-  p br{
+  p br .btn{
     font-size: 5px;
   }
 }
 
 
 @media (max-width: 200px) {
-  p br{
+  p br .btn{
     font-size: 4px;
   }
 }
