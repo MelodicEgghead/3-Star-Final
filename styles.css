@@ -139,7 +139,7 @@ p span {
   line-height: 1.25;
   padding: .40%;
   width: 100%;
-  font-size: 17.5px;
+  font-size: 27px;
   height: 100%;
   font-style: italic;
 }
@@ -684,7 +684,7 @@ h3 span a {
 
 @media (max-height: 1200px) {
   .ulliulli {
-    font-size: 25px;
+    font-size: 19px;
   }
 }
 
@@ -694,6 +694,12 @@ h3 span a {
   }
 }
 
+
+@media (max-height: 750px) {
+  .ulliulli {
+    font-size: 13px;
+  }
+}
 
 @media (max-height: 600px) {
   .ulliulli {
