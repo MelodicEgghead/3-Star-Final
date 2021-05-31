@@ -404,28 +404,28 @@ ul li a {
 
 
 @media (max-width: 1200px) {
-  p {
+  p br{
     font-size: 18px;
 line-height: 35px;
   }
 }
 
 @media (max-width: 1000px) {
-  p {
+  p br{
     font-size: 15px;
   }
 }
 
 
 @media (max-width: 800px) {
-  p {
+  p br{
     font-size: 13.4px;
   }
 }
 
 
 @media (max-width: 700px) {
-  p {
+  p br{
     font-size: 11.5px;
   }
 }
@@ -433,28 +433,28 @@ line-height: 35px;
 
 
 @media (max-width: 600px) {
-  p {
+  p br{
     font-size: 9.7px;
   }
 }
 
 
 @media (max-width: 500px) {
-  p {
+  p br{
     font-size: 7.7px;
   }
 }
 
 
 @media (max-width: 400px) {
-  p {
+  p br{
     font-size: 6.5px;
   }
 }
 
 
 @media (max-width: 350px) {
-  p {
+  p br{
     font-size: 6px;
   }
 }
@@ -462,14 +462,14 @@ line-height: 35px;
 
 
 @media (max-width: 300px) {
-  p {
+  p br{
     font-size: 5px;
   }
 }
 
 
 @media (max-width: 200px) {
-  p {
+  p br{
     font-size: 4px;
   }
 }
