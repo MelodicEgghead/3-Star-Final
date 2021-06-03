@@ -113,11 +113,11 @@ body {
 .ulli {
   float: left;
   width: 20%;
-  height: 28px;
+  height: 40px;
   background-color: orange;
-  line-height: 28px;
+  line-height: 40px;
   text-align: center;
-  font-size: 20px;
+  font-size: 19px;
   font-family: impact;
 }
 
@@ -136,7 +136,7 @@ body {
 
 ul li a {
   text-decoration: none;
-  color: brown;
+  color: black;
 }
 
 
@@ -532,7 +532,17 @@ ul li a:hover {
 
 
 
-@media (max-width: 600px) {
- section  {height: 75px;
+@media (max-width: 400px) {
+ section  {height: 100px;
   }
 }
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {}
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {}
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) {}
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : landscape) {}
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : portrait) {}
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : landscape) {}
