@@ -247,16 +247,15 @@ p {
 
 
 
-
 @media (max-width: 1200px) {
 .ullihead {
-    font-size: 18px;
+    font-size: 17px;
   }
 }
 
 @media (max-width: 900px) {
   .ullihead {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 
@@ -264,87 +263,89 @@ p {
 
 @media (max-width: 800px) {
   .ullihead {
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 
 @media (max-width: 650px) {
   .ullihead {
-    font-size: 12px;
+    font-size: 11px;
   }
 }
 
 @media (max-width: 600px) {
   .ullihead {
-    font-size: 11px;
+    font-size: 10px;
   }
 }
 
 @media (max-width: 500px) {
   .ullihead {
-    font-size: 8.5px;
+    font-size: 8px;
   }
 }
 
 @media (max-width: 400px) {
   .ullihead {
-    font-size: 6.5px;
+    font-size: 6px;
   }
 }
 
 @media (max-width: 300px) {
 .ullihead{
-    font-size: 5.5px;
+    font-size: 5px;
   }
 }
 
 @media (max-width: 250px) {
   .ullihead {
-    font-size: 4.75px;
+    font-size: 4.5px;
   }
 }
 
 @media (max-width: 225px) {
   .ullihead {
-    font-size: 3.75px;
+    font-size: 3.5px;
   }
 }
 
 @media (max-width: 175px) {
 .ullihead {
-    font-size: 3.25px;
+    font-size: 3px;
   }
 }
 
 @media (max-width: 155px) {
   .ullihead {
-    font-size: 2.75px;
+    font-size: 2.5px;
   }
 }
 
 @media (max-width: 130px) {
   .ullihead {
-    font-size: 2.15px;
+    font-size: 2px;
   }
 }
 
 @media (max-width: 100px) {
 .ullihead {
-    font-size: 1.75px;
+    font-size: 1.5px;
   }
 }
 
 @media (max-width: 80px) {
   .ullihead {
-    font-size: 1.5px;
+    font-size: 1.25px;
   }
 }
 
 @media (max-width: 55px) {
   .ullihead {
-    font-size: 1.25px;
+    font-size: 1px;
   }
 }
+
+
 
 
 
